@@ -21,3 +21,11 @@ PARA CONECTAR PHP CON MYSQL: Vamos a usar PDO (PHP Data Objects), que es la libr
 Con $pdo->prepare($sql) le enviamos la estructura limpia de la query al motor de MySQL con "marcardores vacíos" (:nombre, :apellido).
 El motor compila la estructura de la consulta de forma segura.
 Con $stmt->execute([...]) le mandamos los datos puros. MySQL sabe que esos datos son texto y jamás los va a ejecutar como comandos SQL, protegiendo tu sistema por completo.
+
+[resumen.html] 
+      │
+      ▼ (Al cargar la página, JS hace un Fetch)
+[resumen.php] (Backend: Verifica sesión, hace el JOIN en la BD y devuelve un JSON)
+      │
+      ▼ (Devuelve los datos)
+[resumen.html] (JS recibe el JSON e inyecta los datos en los ID del HTML)

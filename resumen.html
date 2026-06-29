@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Tarjetas - Home</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-gray-100 font-sans antialiased text-gray-900">
+
+    <nav class="bg-blue-600 text-white shadow-md">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 class="text-xl font-bold tracking-wide">💳 Progra3card</h1>
+            <div class="flex items-center space-x-4">
+                <span class="text-sm bg-blue-700 px-3 py-1 rounded-full">
+                    Bienvenido, <strong id="nombre-cliente">Cargando...</strong>
+                </span>
+                <a href="logout.php" class="text-sm text-blue-200 hover:text-white transition">Cerrar Sesión</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 py-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-gradient-to-r from-slate-800 to-slate-950 text-white p-6 rounded-2xl shadow-xl flex flex-col justify-between h-48">
+                <div class="flex justify-between items-start">
+                    <span class="text-xs font-semibold tracking-widest text-slate-400">TARJETA DE CRÉDITO</span>
+                    <span class="italic font-bold text-sm text-slate-300" id="banco-emisor">...</span>
+                </div>
+                <div class="text-xl font-mono tracking-widest my-2" id="numero-tarjeta">XXXX XXXX XXXX ----</div>
+                <div class="flex justify-between items-end">
+                    <div>
+                        <p class="text-[10px] text-slate-400 uppercase tracking-wider">Titular</p>
+                        <p class="text-sm font-medium tracking-wide" id="nombre-titular">...</p>
+                    </div>
+                    <span class="text-xs px-2 py-1 bg-green-500/20 text-green-400 rounded-md border border-green-500/30" id="estado-tarjeta">...</span>
+                </div>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-md flex flex-col justify-between">
+                <div>
+                    <p class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Saldo de Cuenta Actual</p>
+                    <h3 class="text-3xl font-extrabold text-gray-800 mt-2" id="saldo-tarjeta">$0,00</h3>
+                </div>
+            </div>
+
+            <div class="bg-white p-6 rounded-2xl shadow-md flex flex-col justify-between">
+                <div>
+                    <p class="text-sm font-semibold text-gray-400 uppercase tracking-wider">DNI Asociado</p>
+                    <h3 class="text-xl font-bold text-gray-700 mt-2" id="dni-titular">...</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-2xl shadow-md overflow-hidden">
+            <div class="px-6 py-4 bg-gray-50 border-b border-gray-100">
+                <h2 class="text-lg font-bold text-gray-800">Historial de Liquidaciones</h2>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="bg-gray-100 text-gray-600 text-xs uppercase tracking-wider font-semibold">
+                            <th class="px-6 py-3">Período</th>
+                            <th class="px-6 py-3">Vencimiento</th>
+                            <th class="px-6 py-3 text-right">Pago Mínimo</th>
+                            <th class="px-6 py-3 text-right">Total a Pagar</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-100 text-sm text-gray-700" id="tabla-liquidaciones">
+                        </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <script src="resumen.js"></script>
+</body>
+</html>
