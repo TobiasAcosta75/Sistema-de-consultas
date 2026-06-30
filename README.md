@@ -29,3 +29,5 @@ Con $stmt->execute([...]) le mandamos los datos puros. MySQL sabe que esos datos
       │
       ▼ (Devuelve los datos)
 [resumen.html] (JS recibe el JSON e inyecta los datos en los ID del HTML)
+
+en algun futuro añadir el logout.php
