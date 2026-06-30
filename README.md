@@ -35,6 +35,7 @@ Diseñado con interfaces modernas, responsivas y estilizadas mediante **Tailwind
 ---
 
 ## 🗄️ Estructura de la Base de Datos
+Este proyecto consiste en un ecosistema integrado por dos plataformas distintas que comparten una misma base de datos relacional MySQL (`mi_banco_db`). Toda la infraestructura del portal web y el motor de base de datos se ejecutan localmente utilizando el entorno de desarrollo **XAMPP**.
 
 El esquema relacional `mi_banco_db` cuenta con las siguientes entidades principales:
 * **`usuarios`**: Almacena información de identidad (PK: `documento`). Las columnas `usuario` y `password` inician vacías hasta el registro web.
@@ -47,4 +48,4 @@ El esquema relacional `mi_banco_db` cuenta con las siguientes entidades principa
 * **Backend Core:** C# (.NET SDK) & PHP 8
 * **Frontend:** HTML5, JavaScript Moderno (Async/Await, Fetch API, Array.map)
 * **Estilos:** Tailwind CSS v4 (vía CDN)
-* **Base de Datos:** MySQL / MariaDB (Driver `MySql.Data` en C# y `PDO` en PHP)
+* **Base de Datos y Servidor:** MySQL / MariaDB & Apache (Servidor mediante **XAMPP**)
