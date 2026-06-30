@@ -1,0 +1,37 @@
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.exe
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.deps.json
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.runtimeconfig.json
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.pdb
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\Google.Protobuf.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\MySql.Data.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\ZstdSharp.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.AssemblyInfo.cs
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.sourcelink.json
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integ.97BEE95B.Up2Date
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\refint\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.dll
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.pdb
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.genruntimeconfig.cache
+C:\xampp\htdocs\Tp integrador- Sistema de consultas de liquidaciones de tarjetas\obj\Debug\net10.0\ref\Tp integrador- Sistema de consultas de liquidaciones de tarjetas.dll
